@@ -3,6 +3,7 @@
 An interactive **R Shiny** dashboard to explore, map and model the spatial relationship between **female labour-market outcomes** and **care services** (childcare, home care for the elderly) across the **107 Italian provinces**, 2018–2022.
 
 Joint project with Giacomo Pagani for the *Spatial Data Lab*, MSc in Analytics and Data Science for Economics and Management, University of Brescia (2026). Both authors contributed to every stage.
+**▶ [Open the live dashboard](https://g-ferraresi.shinyapps.io/spatial-econometrics-dashboard/)** (it may take ~30 seconds to wake up)
 
 ![Descriptive overview](screenshots/01_descriptive.png)
 
